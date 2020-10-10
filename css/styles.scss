@@ -1,9 +1,51 @@
 body {
 
 	background: url('../Images/Background2.jpg');
+	background-size: cover;
 	font-family: sans-serif;
 
 	img {
 		width: 100%;
+	}
+
+	section {
+		text-align: left;
+		padding-left: 100px;
+		padding-right: 100px;
+		padding-top: 0px;
+		padding-bottom: 100px;
+	}
+
+	p {
+		color: white;
+		font-family: Helvetica, Arial, sans-serif;
+		text-align: left;
+		padding-left: 100px;
+		padding-right: 100px;
+		padding-top: 0px;
+		padding-bottom: 100px;
+	}
+
+	.special {
+		color: red;
+	}
+
+	ol {
+		color: white;
+		font-family: Helvetica, Arial, sans-serif;
+		padding-left: 120px;
+		padding-right: 100px;
+		padding-top: 0px;
+		padding-bottom: 100px;
+	}
+
+	h1 {
+		color: white;
+		font-family: Helvetica, Arial, sans-serif;
+		text-align: left;
+		padding-left: 100px;
+		padding-right: 100px;
+		padding-top: 0px;
+		padding-bottom: 100px;
 	}
 }
